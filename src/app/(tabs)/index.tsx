@@ -21,7 +21,7 @@ export default function App() {
               Go to Sign up
           </Link>
 
-          <Link href="/src/app/subscriptions/spotify">Spotify Subscription</Link>
+          <Link href="/subscriptions/spotify">Spotify Subscription</Link>
 
           <Link
               href={{
