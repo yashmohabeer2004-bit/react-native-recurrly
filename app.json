@@ -33,7 +33,7 @@
           "imageWidth": 76
         }
       ],
-      "expo-font",
+
       "expo-web-browser",
       ["expo-font", {"fonts": [
         "./assets/fonts/PlusJakartaSans-Regular.ttf",

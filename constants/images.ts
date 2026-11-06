@@ -1,4 +1,4 @@
-import splathPatter from '@/assets/images/splash-pattern.png'
+import splashPatter from '@/assets/images/splash-pattern.png'
 import avatar from '@/assets/images/avatar.png'
 
-export default {splathPatter, avatar}
+export default {splashPatter, avatar}
